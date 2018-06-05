@@ -1,0 +1,1433 @@
+[
+  {
+    "Activity_Type": "treadmill_running",
+    "Date": "2018-06-04 12:03:18",
+    "Title": "Treadmill Running",
+    "Distance": 3.11,
+    "Time": "31:26",
+    "Avg_HR": 136,
+    "Avg_Pace": "10:05"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-06-03 08:26:29",
+    "Title": "Iredell County Running",
+    "Distance": 13.11,
+    "Time": "2:03:05",
+    "Avg_HR": 163,
+    "Avg_Pace": "9:23"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-06-01 08:18:51",
+    "Title": "Charlotte Running",
+    "Distance": 6.21,
+    "Time": "58:11",
+    "Avg_HR": 152,
+    "Avg_Pace": "9:22"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-31 12:09:26",
+    "Title": "Charlotte Running",
+    "Distance": 3.51,
+    "Time": "32:05",
+    "Avg_HR": 163,
+    "Avg_Pace": "9:09"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-31 12:01:29",
+    "Title": "Charlotte Running",
+    "Distance": 0.51,
+    "Time": "5:11.4",
+    "Avg_HR": 153,
+    "Avg_Pace": "10:14"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-30 08:03:48",
+    "Title": "Charlotte Running",
+    "Distance": 4.07,
+    "Time": "39:13",
+    "Avg_HR": 157,
+    "Avg_Pace": "9:38"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-29 18:18:07",
+    "Title": "Charlotte Running",
+    "Distance": 5.12,
+    "Time": "51:54",
+    "Avg_HR": 147,
+    "Avg_Pace": "10:08"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-28 09:12:59",
+    "Title": "Iredell County Running",
+    "Distance": 4.01,
+    "Time": "33:32",
+    "Avg_HR": 166,
+    "Avg_Pace": "8:22"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-28 08:56:51",
+    "Title": "Iredell County Running",
+    "Distance": 1,
+    "Time": "10:23",
+    "Avg_HR": 157,
+    "Avg_Pace": "10:24"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-27 09:09:13",
+    "Title": "Iredell County Running",
+    "Distance": 5.5,
+    "Time": "56:46",
+    "Avg_HR": 148,
+    "Avg_Pace": "10:19"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-26 09:23:08",
+    "Title": "Iredell County Running",
+    "Distance": 12,
+    "Time": "2:02:07",
+    "Avg_HR": 147,
+    "Avg_Pace": "10:11"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-24 09:36:29",
+    "Title": "Iredell County Running",
+    "Distance": 5,
+    "Time": "43:32",
+    "Avg_HR": 159,
+    "Avg_Pace": "8:42"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-23 19:08:38",
+    "Title": "Iredell County Running",
+    "Distance": 3,
+    "Time": "31:53",
+    "Avg_HR": 141,
+    "Avg_Pace": "10:38"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-22 08:52:57",
+    "Title": "Iredell County Running",
+    "Distance": 4,
+    "Time": "37:06",
+    "Avg_HR": 157,
+    "Avg_Pace": "9:16"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-21 07:13:58",
+    "Title": "Charlotte Running",
+    "Distance": 5.5,
+    "Time": "53:34",
+    "Avg_HR": 150,
+    "Avg_Pace": "9:44"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-20 11:07:37",
+    "Title": "Iredell County Running",
+    "Distance": 3,
+    "Time": "32:37",
+    "Avg_HR": 152,
+    "Avg_Pace": "10:53"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-19 09:34:08",
+    "Title": "Iredell County Running",
+    "Distance": 11.63,
+    "Time": "2:00:12",
+    "Avg_HR": 158,
+    "Avg_Pace": "10:20"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-18 11:22:51",
+    "Title": "Charlotte Running",
+    "Distance": 4.5,
+    "Time": "37:54",
+    "Avg_HR": 162,
+    "Avg_Pace": "8:25"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-18 11:17:02",
+    "Title": "Charlotte Running",
+    "Distance": 0.25,
+    "Time": "2:01.7",
+    "Avg_HR": 140,
+    "Avg_Pace": "8:02"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-17 12:15:31",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "39:38",
+    "Avg_HR": 151,
+    "Avg_Pace": "9:54"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-16 11:10:00",
+    "Title": "Davidson n track workout",
+    "Distance": 3.5,
+    "Time": "0:00",
+    "Avg_HR": "--",
+    "Avg_Pace": "--"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-14 19:50:26",
+    "Title": "Iredell County Running",
+    "Distance": 5,
+    "Time": "49:56",
+    "Avg_HR": 148,
+    "Avg_Pace": "9:59"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-12 19:30:45",
+    "Title": "Iredell County Running",
+    "Distance": 5,
+    "Time": "52:39",
+    "Avg_HR": 151,
+    "Avg_Pace": "10:32"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-11 22:19:26",
+    "Title": "Iredell County Running",
+    "Distance": 1.02,
+    "Time": "7:42.9",
+    "Avg_HR": 164,
+    "Avg_Pace": "7:34"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-11 21:39:21",
+    "Title": "Iredell County Running",
+    "Distance": 3.4,
+    "Time": "33:57",
+    "Avg_HR": 146,
+    "Avg_Pace": "9:59"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-07 21:01:13",
+    "Title": "Iredell County Running",
+    "Distance": 1,
+    "Time": "11:00",
+    "Avg_HR": 135,
+    "Avg_Pace": "11:02"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-07 20:38:48",
+    "Title": "Iredell County Running",
+    "Distance": 2,
+    "Time": "16:47",
+    "Avg_HR": 159,
+    "Avg_Pace": "8:24"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-07 20:31:48",
+    "Title": "Iredell County Running",
+    "Distance": 0.35,
+    "Time": "3:00.3",
+    "Avg_HR": 144,
+    "Avg_Pace": "8:41"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-07 20:28:27",
+    "Title": "Iredell County Running",
+    "Distance": 0.25,
+    "Time": "1:49.4",
+    "Avg_HR": 158,
+    "Avg_Pace": "7:18"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-07 20:21:58",
+    "Title": "Iredell County Running",
+    "Distance": 0.51,
+    "Time": "4:56.2",
+    "Avg_HR": 149,
+    "Avg_Pace": "9:46"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-06 11:11:30",
+    "Title": "Iredell County Running",
+    "Distance": 7.08,
+    "Time": "1:17:27",
+    "Avg_HR": 152,
+    "Avg_Pace": "10:56"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-05 09:31:48",
+    "Title": "Iredell County Running",
+    "Distance": 6,
+    "Time": "1:04:12",
+    "Avg_HR": 153,
+    "Avg_Pace": "10:42"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-04 08:26:42",
+    "Title": "Charlotte Running",
+    "Distance": 1.48,
+    "Time": "12:30",
+    "Avg_HR": 161,
+    "Avg_Pace": "8:25"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-04 07:58:31",
+    "Title": "Charlotte Running",
+    "Distance": 2.01,
+    "Time": "16:09",
+    "Avg_HR": 163,
+    "Avg_Pace": "8:03"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-02 17:21:00",
+    "Title": "Charlotte Running",
+    "Distance": 5,
+    "Time": "57:05",
+    "Avg_HR": 138,
+    "Avg_Pace": "11:25"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 21:16:41",
+    "Title": "Davidson Running",
+    "Distance": 0.25,
+    "Time": "2:23.8",
+    "Avg_HR": 140,
+    "Avg_Pace": "9:25"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 21:14:59",
+    "Title": "Davidson Running",
+    "Distance": 0.05,
+    "Time": "0:16.6",
+    "Avg_HR": 115,
+    "Avg_Pace": "5:11"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 21:13:01",
+    "Title": "Davidson Running",
+    "Distance": 0.06,
+    "Time": "0:19.7",
+    "Avg_HR": 131,
+    "Avg_Pace": "5:27"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 21:11:28",
+    "Title": "Davidson Running",
+    "Distance": 0.05,
+    "Time": "0:15.2",
+    "Avg_HR": 117,
+    "Avg_Pace": "4:41"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 21:08:41",
+    "Title": "Davidson Running",
+    "Distance": 0.06,
+    "Time": "0:14.9",
+    "Avg_HR": 110,
+    "Avg_Pace": "4:30"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 21:03:26",
+    "Title": "Davidson Running",
+    "Distance": 0.13,
+    "Time": "0:41.4",
+    "Avg_HR": 126,
+    "Avg_Pace": "5:26"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 20:59:25",
+    "Title": "Davidson Running",
+    "Distance": 0.13,
+    "Time": "0:43.3",
+    "Avg_HR": 135,
+    "Avg_Pace": "5:26"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 20:56:21",
+    "Title": "Davidson Running",
+    "Distance": 0.13,
+    "Time": "0:38.5",
+    "Avg_HR": 135,
+    "Avg_Pace": "5:05"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 20:54:05",
+    "Title": "Davidson Running",
+    "Distance": 0.14,
+    "Time": "0:42.9",
+    "Avg_HR": 120,
+    "Avg_Pace": "5:13"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 20:46:34",
+    "Title": "Davidson Running",
+    "Distance": 0.19,
+    "Time": "1:13.5",
+    "Avg_HR": 138,
+    "Avg_Pace": "6:26"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 20:43:45",
+    "Title": "Davidson Running",
+    "Distance": 0.19,
+    "Time": "1:16.7",
+    "Avg_HR": 134,
+    "Avg_Pace": "6:52"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 20:40:21",
+    "Title": "Davidson Running",
+    "Distance": 0.2,
+    "Time": "1:20.2",
+    "Avg_HR": 129,
+    "Avg_Pace": "6:42"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 20:35:45",
+    "Title": "Davidson Running",
+    "Distance": 0.2,
+    "Time": "1:21.4",
+    "Avg_HR": 130,
+    "Avg_Pace": "6:50"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 20:23:47",
+    "Title": "Davidson Running",
+    "Distance": 1.07,
+    "Time": "8:12.6",
+    "Avg_HR": 156,
+    "Avg_Pace": "7:41"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01 20:15:49",
+    "Title": "Davidson Running",
+    "Distance": 0.26,
+    "Time": "2:27.5",
+    "Avg_HR": 133,
+    "Avg_Pace": "9:36"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-30 17:57:45",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "45:45",
+    "Avg_HR": 136,
+    "Avg_Pace": "11:26"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-29 11:33:02",
+    "Title": "Iredell County Running",
+    "Distance": 0.25,
+    "Time": "2:52.3",
+    "Avg_HR": 137,
+    "Avg_Pace": "11:39"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-29 10:18:07",
+    "Title": "Iredell County Running",
+    "Distance": 8,
+    "Time": "1:10:55",
+    "Avg_HR": 165,
+    "Avg_Pace": "8:52"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-29 10:10:56",
+    "Title": "Iredell County Running",
+    "Distance": 0.5,
+    "Time": "4:34.0",
+    "Avg_HR": 164,
+    "Avg_Pace": "9:09"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-04-28 17:10:28",
+    "Title": "Davidson Running",
+    "Distance": 0.24,
+    "Time": "1:38.6",
+    "Avg_HR": 137,
+    "Avg_Pace": "6:43"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-04-28 17:03:24",
+    "Title": "Davidson Running",
+    "Distance": 0.24,
+    "Time": "1:42.6",
+    "Avg_HR": 139,
+    "Avg_Pace": "6:59"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-04-28 16:56:44",
+    "Title": "Davidson Running",
+    "Distance": 0.25,
+    "Time": "1:39.8",
+    "Avg_HR": 142,
+    "Avg_Pace": "6:45"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-04-28 16:50:15",
+    "Title": "Davidson Running",
+    "Distance": 0.25,
+    "Time": "1:41.4",
+    "Avg_HR": 141,
+    "Avg_Pace": "6:48"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-04-28 16:42:06",
+    "Title": "Davidson Running",
+    "Distance": 0.5,
+    "Time": "5:14.7",
+    "Avg_HR": 143,
+    "Avg_Pace": "10:24"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-26 07:50:08",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "44:43",
+    "Avg_HR": 149,
+    "Avg_Pace": "11:10"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-24 08:30:29",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "37:11",
+    "Avg_HR": 161,
+    "Avg_Pace": "9:18"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-22 12:45:09",
+    "Title": "Iredell County Running",
+    "Distance": 8,
+    "Time": "1:24:26",
+    "Avg_HR": 144,
+    "Avg_Pace": "10:33"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-21 11:25:55",
+    "Title": "Iredell County Running",
+    "Distance": 6.21,
+    "Time": "53:58",
+    "Avg_HR": 162,
+    "Avg_Pace": "8:41"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-20 17:54:39",
+    "Title": "Charlotte Running",
+    "Distance": 4.04,
+    "Time": "40:10",
+    "Avg_HR": 141,
+    "Avg_Pace": "9:57"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-19 17:43:00",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "38:03",
+    "Avg_HR": 149,
+    "Avg_Pace": "9:30"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-19 08:28:49",
+    "Title": "Charlotte Running",
+    "Distance": 0.5,
+    "Time": "6:19.5",
+    "Avg_HR": 145,
+    "Avg_Pace": "12:41"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-19 07:48:32",
+    "Title": "Charlotte Running",
+    "Distance": 4.01,
+    "Time": "38:51",
+    "Avg_HR": 158,
+    "Avg_Pace": "9:42"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-18 18:17:17",
+    "Title": "Charlotte Running",
+    "Distance": 3.39,
+    "Time": "37:35",
+    "Avg_HR": 143,
+    "Avg_Pace": "11:06"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-17 08:43:09",
+    "Title": "Charlotte Running",
+    "Distance": 0.89,
+    "Time": "8:29.5",
+    "Avg_HR": 148,
+    "Avg_Pace": "9:30"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-17 08:05:04",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "36:17",
+    "Avg_HR": 166,
+    "Avg_Pace": "9:04"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-15 13:08:43",
+    "Title": "Iredell County Running",
+    "Distance": 8.01,
+    "Time": "1:27:27",
+    "Avg_HR": "--",
+    "Avg_Pace": "10:55"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-14 10:43:04",
+    "Title": "Iredell County Running",
+    "Distance": 6.68,
+    "Time": "1:12:26",
+    "Avg_HR": 161,
+    "Avg_Pace": "10:50"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-11 08:13:16",
+    "Title": "Iredell County Running",
+    "Distance": 0.36,
+    "Time": "5:02.6",
+    "Avg_HR": 134,
+    "Avg_Pace": "14:00"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-11 07:16:31",
+    "Title": "Iredell County Running",
+    "Distance": 5,
+    "Time": "53:53",
+    "Avg_HR": 149,
+    "Avg_Pace": "10:47"
+  },
+  {
+    "Activity_Type": "trail_running",
+    "Date": "2018-04-08 10:51:00",
+    "Title": "Gastonia crowders mountain (hike)",
+    "Distance": 11.4,
+    "Time": "2:33:00",
+    "Avg_HR": "--",
+    "Avg_Pace": "13:25"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-07 10:14:12",
+    "Title": "Iredell County Running",
+    "Distance": 1,
+    "Time": "10:48",
+    "Avg_HR": 143,
+    "Avg_Pace": "10:46"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-07 09:40:35",
+    "Title": "Iredell County Running",
+    "Distance": 3.11,
+    "Time": "26:15",
+    "Avg_HR": 171,
+    "Avg_Pace": "8:27"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-07 09:26:30",
+    "Title": "Iredell County Running",
+    "Distance": 1,
+    "Time": "10:46",
+    "Avg_HR": 158,
+    "Avg_Pace": "10:44"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-05 07:34:46",
+    "Title": "Charlotte Running",
+    "Distance": 7,
+    "Time": "1:06:56",
+    "Avg_HR": 156,
+    "Avg_Pace": "9:34"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-04 11:10:37",
+    "Title": "Charlotte Running",
+    "Distance": 0.62,
+    "Time": "9:30.9",
+    "Avg_HR": 141,
+    "Avg_Pace": "15:28"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-04 10:20:14",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "42:08",
+    "Avg_HR": "--",
+    "Avg_Pace": "10:32"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-03 08:44:37",
+    "Title": "Charlotte Running",
+    "Distance": 0.48,
+    "Time": "6:22.3",
+    "Avg_HR": 133,
+    "Avg_Pace": "13:21"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-03 07:55:28",
+    "Title": "Charlotte Running",
+    "Distance": 5,
+    "Time": "47:10",
+    "Avg_HR": 156,
+    "Avg_Pace": "9:26"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-04-01 10:49:37",
+    "Title": "Iredell County Running",
+    "Distance": 3.11,
+    "Time": "26:17",
+    "Avg_HR": 168,
+    "Avg_Pace": "8:28"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-31 10:02:46",
+    "Title": "Iredell County Running",
+    "Distance": 9,
+    "Time": "1:27:47",
+    "Avg_HR": 157,
+    "Avg_Pace": "9:45"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-29 19:19:23",
+    "Title": "Huntersville Running",
+    "Distance": 5,
+    "Time": "46:29",
+    "Avg_HR": 153,
+    "Avg_Pace": "9:18"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-28 15:40:05",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "41:03",
+    "Avg_HR": 146,
+    "Avg_Pace": "10:16"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-28 08:20:24",
+    "Title": "Charlotte Running",
+    "Distance": 3,
+    "Time": "28:36",
+    "Avg_HR": 152,
+    "Avg_Pace": "9:32"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-27 18:59:44",
+    "Title": "Charlotte Running",
+    "Distance": 1.01,
+    "Time": "11:39",
+    "Avg_HR": 143,
+    "Avg_Pace": "11:32"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-27 18:38:08",
+    "Title": "Charlotte Running",
+    "Distance": 1.45,
+    "Time": "17:05",
+    "Avg_HR": 157,
+    "Avg_Pace": "11:46"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-27 18:14:24",
+    "Title": "Charlotte Running",
+    "Distance": 2,
+    "Time": "19:52",
+    "Avg_HR": 144,
+    "Avg_Pace": "9:56"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-25 12:43:45",
+    "Title": "Iredell County Running",
+    "Distance": 8.49,
+    "Time": "1:25:42",
+    "Avg_HR": 155,
+    "Avg_Pace": "10:06"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-23 08:00:21",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "40:43",
+    "Avg_HR": 157,
+    "Avg_Pace": "10:11"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-22 13:52:58",
+    "Title": "Charlotte Running",
+    "Distance": 6.21,
+    "Time": "55:43",
+    "Avg_HR": 156,
+    "Avg_Pace": "8:58"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-21 08:36:35",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "34:51",
+    "Avg_HR": 164,
+    "Avg_Pace": "8:43"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-19 18:25:18",
+    "Title": "Charlotte Running",
+    "Distance": 3.5,
+    "Time": "35:13",
+    "Avg_HR": 143,
+    "Avg_Pace": "10:04"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-18 14:31:14",
+    "Title": "Iredell County Running",
+    "Distance": 8.5,
+    "Time": "1:29:56",
+    "Avg_HR": 158,
+    "Avg_Pace": "10:35"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-17 22:46:32",
+    "Title": "Iredell County Running",
+    "Distance": 1.01,
+    "Time": "8:29.1",
+    "Avg_HR": 154,
+    "Avg_Pace": "8:26"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-17 21:50:59",
+    "Title": "Iredell County Running",
+    "Distance": 1.95,
+    "Time": "19:30",
+    "Avg_HR": 149,
+    "Avg_Pace": "10:00"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-16 20:03:17",
+    "Title": "Charlotte Running",
+    "Distance": 1.06,
+    "Time": "11:03",
+    "Avg_HR": 127,
+    "Avg_Pace": "10:23"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-16 19:28:51",
+    "Title": "Charlotte Running",
+    "Distance": 3.02,
+    "Time": "29:06",
+    "Avg_HR": 145,
+    "Avg_Pace": "9:38"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-15 18:49:40",
+    "Title": "Charlotte Running",
+    "Distance": 1,
+    "Time": "12:53",
+    "Avg_HR": 133,
+    "Avg_Pace": "12:53"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-15 18:19:53",
+    "Title": "Charlotte Running",
+    "Distance": 1.36,
+    "Time": "15:03",
+    "Avg_HR": 151,
+    "Avg_Pace": "11:04"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-15 17:51:41",
+    "Title": "Charlotte Running",
+    "Distance": 2.02,
+    "Time": "22:31",
+    "Avg_HR": 146,
+    "Avg_Pace": "11:10"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-13 17:36:04",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": "45:34",
+    "Avg_HR": 147,
+    "Avg_Pace": "11:23"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-13 08:13:14",
+    "Title": "Charlotte Running",
+    "Distance": 3,
+    "Time": "33:40",
+    "Avg_HR": 158,
+    "Avg_Pace": "11:13"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-11 11:46:47",
+    "Title": "Iredell County Running",
+    "Distance": 8,
+    "Time": "1:35:34",
+    "Avg_HR": 151,
+    "Avg_Pace": "11:57"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-11 11:39:04",
+    "Title": "Iredell County Running",
+    "Distance": 0.5,
+    "Time": "6:18.0",
+    "Avg_HR": 154,
+    "Avg_Pace": "12:37"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-09 17:49:30",
+    "Title": "Charlotte Running",
+    "Distance": 6,
+    "Time": "1:05:18",
+    "Avg_HR": 147,
+    "Avg_Pace": "10:53"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-09 17:36:56",
+    "Title": "Charlotte Running",
+    "Distance": 0.51,
+    "Time": "6:08.4",
+    "Avg_HR": 140,
+    "Avg_Pace": "11:59"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-08 17:58:20",
+    "Title": "Charlotte Running",
+    "Distance": 5.01,
+    "Time": "51:24",
+    "Avg_HR": 146,
+    "Avg_Pace": "10:16"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-07 09:11:57",
+    "Title": "Iredell County Running",
+    "Distance": 2,
+    "Time": "18:51",
+    "Avg_HR": 163,
+    "Avg_Pace": "9:25"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-07 08:57:54",
+    "Title": "Iredell County Running",
+    "Distance": 1,
+    "Time": "12:28",
+    "Avg_HR": 150,
+    "Avg_Pace": "12:29"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-04 12:10:32",
+    "Title": "Iredell County Running",
+    "Distance": 8,
+    "Time": "1:40:01",
+    "Avg_HR": 150,
+    "Avg_Pace": "12:30"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-03 16:11:34",
+    "Title": "Iredell County Running",
+    "Distance": 3.1,
+    "Time": "28:57",
+    "Avg_HR": 164,
+    "Avg_Pace": "9:20"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-02 10:40:21",
+    "Title": "Cornelius Running",
+    "Distance": 6,
+    "Time": "1:23:18",
+    "Avg_HR": 146,
+    "Avg_Pace": "13:53"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-03-01 10:54:37",
+    "Title": "Iredell County Running",
+    "Distance": 5.5,
+    "Time": "1:04:47",
+    "Avg_HR": 149,
+    "Avg_Pace": "11:47"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-28 10:47:19",
+    "Title": "Iredell County Running",
+    "Distance": 4,
+    "Time": "46:38",
+    "Avg_HR": 151,
+    "Avg_Pace": "11:40"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-24 16:29:51",
+    "Title": "Charlotte Running",
+    "Distance": 3,
+    "Time": "35:25",
+    "Avg_HR": 140,
+    "Avg_Pace": "11:49"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-23 09:22:05",
+    "Title": "Mooresville Running",
+    "Distance": 5,
+    "Time": "54:38",
+    "Avg_HR": 148,
+    "Avg_Pace": "10:56"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-22 12:20:53",
+    "Title": "Davidson Running",
+    "Distance": 3.1,
+    "Time": "30:58",
+    "Avg_HR": 166,
+    "Avg_Pace": "10:00"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-22 11:54:07",
+    "Title": "Davidson Running",
+    "Distance": 1,
+    "Time": "14:57",
+    "Avg_HR": 146,
+    "Avg_Pace": "14:59"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-19 08:16:20",
+    "Title": "Mooresville Running",
+    "Distance": 4,
+    "Time": "48:26",
+    "Avg_HR": 148,
+    "Avg_Pace": "12:07"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-18 09:26:58",
+    "Title": "Mooresville Running",
+    "Distance": 5,
+    "Time": "58:16",
+    "Avg_HR": 149,
+    "Avg_Pace": "11:40"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-16 09:30:38",
+    "Title": "Mooresville Running",
+    "Distance": 3,
+    "Time": "29:56",
+    "Avg_HR": 159,
+    "Avg_Pace": "9:58"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-15 11:32:23",
+    "Title": "Mooresville Running",
+    "Distance": 4,
+    "Time": "41:09",
+    "Avg_HR": 164,
+    "Avg_Pace": "10:17"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-13 10:09:53",
+    "Title": "Mooresville Running",
+    "Distance": 6.25,
+    "Time": "1:00:59",
+    "Avg_HR": 153,
+    "Avg_Pace": "9:45"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-12 13:22:53",
+    "Title": "Mooresville Running",
+    "Distance": 4,
+    "Time": "42:04",
+    "Avg_HR": 149,
+    "Avg_Pace": "10:31"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-10 17:34:10",
+    "Title": "Mooresville Running",
+    "Distance": 4,
+    "Time": "43:25",
+    "Avg_HR": 149,
+    "Avg_Pace": "10:52"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-09 11:51:16",
+    "Title": "Mooresville Running",
+    "Distance": 6,
+    "Time": "1:00:37",
+    "Avg_HR": 158,
+    "Avg_Pace": "10:06"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-07 21:53:22",
+    "Title": "Mooresville Running",
+    "Distance": 4,
+    "Time": "41:16",
+    "Avg_HR": 152,
+    "Avg_Pace": "10:19"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-07 13:04:18",
+    "Title": "Huntersville Running",
+    "Distance": 1,
+    "Time": "9:40.7",
+    "Avg_HR": 153,
+    "Avg_Pace": "9:41"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-06 11:56:29",
+    "Title": "Mooresville Running",
+    "Distance": 2.17,
+    "Time": "25:55",
+    "Avg_HR": 168,
+    "Avg_Pace": "11:58"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-04 14:44:48",
+    "Title": "Mooresville Running",
+    "Distance": 1.33,
+    "Time": "24:26",
+    "Avg_HR": 140,
+    "Avg_Pace": "18:24"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-03 21:37:57",
+    "Title": "Mooresville Running",
+    "Distance": 0.37,
+    "Time": "3:07.0",
+    "Avg_HR": 166,
+    "Avg_Pace": "8:19"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-03 21:33:24",
+    "Title": "Mooresville Running",
+    "Distance": 0.36,
+    "Time": "3:35.0",
+    "Avg_HR": 162,
+    "Avg_Pace": "9:59"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-03 21:20:06",
+    "Title": "Mooresville Running",
+    "Distance": 1.03,
+    "Time": "10:56",
+    "Avg_HR": 157,
+    "Avg_Pace": "10:39"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-01 20:21:39",
+    "Title": "Charlotte Running",
+    "Distance": 0.39,
+    "Time": "3:09.2",
+    "Avg_HR": 158,
+    "Avg_Pace": "8:05"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-02-01 13:44:27",
+    "Title": "Mooresville Running",
+    "Distance": 3,
+    "Time": "34:50",
+    "Avg_HR": 157,
+    "Avg_Pace": "11:38"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-01-31 12:25:01",
+    "Title": "Mooresville Running",
+    "Distance": 3.75,
+    "Time": "37:13",
+    "Avg_HR": 172,
+    "Avg_Pace": "9:56"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-01-30 22:03:26",
+    "Title": "Charlotte Running",
+    "Distance": 2,
+    "Time": "18:34",
+    "Avg_HR": 158,
+    "Avg_Pace": "9:18"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-01-27 17:11:21",
+    "Title": "Charlotte Running",
+    "Distance": 2.04,
+    "Time": "18:33",
+    "Avg_HR": 153,
+    "Avg_Pace": "9:06"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-01-25 11:18:37",
+    "Title": "Mooresville Running",
+    "Distance": 6,
+    "Time": "59:13",
+    "Avg_HR": 170,
+    "Avg_Pace": "9:52"
+  },
+  {
+    "Activity_Type": "street_running",
+    "Date": "2018-01-23 15:20:00",
+    "Title": "mooresville running",
+    "Distance": 3.5,
+    "Time": "30:14",
+    "Avg_HR": "--",
+    "Avg_Pace": "8:38"
+  },
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-01-22 15:17:00",
+    "Title": "davidson Running",
+    "Distance": 2.5,
+    "Time": "21:34",
+    "Avg_HR": "--",
+    "Avg_Pace": "8:38"
+  },
+  {
+    "Activity_Type": "street_running",
+    "Date": "2018-01-21 15:28:00",
+    "Title": "moorsville running",
+    "Distance": 4.5,
+    "Time": "41:13",
+    "Avg_HR": "--",
+    "Avg_Pace": "9:10"
+  },
+  {
+    "Activity_Type": "street_running",
+    "Date": "2018-01-19 15:29:00",
+    "Title": "mooresville running",
+    "Distance": 3.5,
+    "Time": "33:14",
+    "Avg_HR": "--",
+    "Avg_Pace": "9:30"
+  },
+  {
+    "Activity_Type": "street_running",
+    "Date": "2018-01-18 15:30:00",
+    "Title": "mooresville running",
+    "Distance": 5,
+    "Time": "53:56",
+    "Avg_HR": "--",
+    "Avg_Pace": "10:47"
+  },
+  {
+    "Activity_Type": "street_running",
+    "Date": "2018-01-16 15:31:00",
+    "Title": "mooreville Running",
+    "Distance": 3,
+    "Time": "28:56",
+    "Avg_HR": "--",
+    "Avg_Pace": "9:39"
+  },
+  {
+    "Activity_Type": "street_running",
+    "Date": "2018-01-15 15:32:00",
+    "Title": "mooresville Running",
+    "Distance": 2.5,
+    "Time": "22:38",
+    "Avg_HR": "--",
+    "Avg_Pace": "9:03"
+  },
+  {
+    "Activity_Type": "street_running",
+    "Date": "2018-01-14 15:33:00",
+    "Title": "mooresville running",
+    "Distance": 4.5,
+    "Time": "42:41",
+    "Avg_HR": "--",
+    "Avg_Pace": "9:29"
+  },
+  {
+    "Activity_Type": "street_running",
+    "Date": "2018-01-11 15:34:00",
+    "Title": "mooresville running",
+    "Distance": 5,
+    "Time": "46:55",
+    "Avg_HR": "--",
+    "Avg_Pace": "9:23"
+  },
+  {
+    "Activity_Type": "street_running",
+    "Date": "2018-01-09 15:35:00",
+    "Title": "mooresville running",
+    "Distance": 3.5,
+    "Time": "33:08",
+    "Avg_HR": "--",
+    "Avg_Pace": "9:28"
+  },
+  {
+    "Activity_Type": "street_running",
+    "Date": "2018-01-07 15:36:00",
+    "Title": "mooresville running",
+    "Distance": 3.5,
+    "Time": "34:27",
+    "Avg_HR": "--",
+    "Avg_Pace": "9:51"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-01-05 00:15:00",
+    "Title": "Running",
+    "Distance": 3.5,
+    "Time": "34:46",
+    "Avg_HR": "--",
+    "Avg_Pace": "9:56"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-01-03 00:17:00",
+    "Title": "Running",
+    "Distance": 3,
+    "Time": "31:56",
+    "Avg_HR": "--",
+    "Avg_Pace": "10:39"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-01-01 00:20:00",
+    "Title": "Running",
+    "Distance": 3,
+    "Time": "30:37",
+    "Avg_HR": "--",
+    "Avg_Pace": "10:12"
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2017-12-30 00:21:00",
+    "Title": "Running",
+    "Distance": 3,
+    "Time": "33:37",
+    "Avg_HR": "--",
+    "Avg_Pace": "11:12"
+  },
+  {
+    "Activity_Type": "high_school",
+    "Date": "2004-09-20 09:48:00",
+    "Title": "Best mile high school",
+    "Distance": 1,
+    "Time": "6:05",
+    "Avg_HR": "--",
+    "Avg_Pace": "6:05"
+  }
+]

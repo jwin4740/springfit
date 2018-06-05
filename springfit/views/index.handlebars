@@ -33,12 +33,13 @@
 			return x(d.date);
 		})
 		.y(function (d) {
-			return y(d.close);
+			return y(d.Avg_Pace);
 		});
 
-	d3.tsv("/assets/data.tsv", function (d) {
-		d.date = parseTime(d.date);
-		d.close = +d.close;
+	d3.json("/assets/running_data.json", function (d) {
+		d.date = parseTime(d.Date);
+		d.Avg_Pace = +d.Avg_Pace;
+		console.log(d);
 		return d;
 	}, function (error, data) {
 		if (error) throw error;
@@ -47,7 +48,7 @@
 			return d.date;
 		}));
 		y.domain(d3.extent(data, function (d) {
-			return d.close;
+			return d.Avg_Pace;
 		}));
 
 		g.append("g")

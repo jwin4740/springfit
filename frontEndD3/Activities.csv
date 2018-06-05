@@ -1,0 +1,160 @@
+Activity_Type,Date,Title,Distance,Time,Avg_HR,Avg_Pace
+treadmill_running,2018-06-04 12:03:18,Treadmill Running,3.11,31:26,136,10:05
+running,2018-06-03 08:26:29,Iredell County Running,13.11,2:03:05,163,9:23
+running,2018-06-01 08:18:51,Charlotte Running,6.21,58:11,152,9:22
+running,2018-05-31 12:09:26,Charlotte Running,3.51,32:05,163,9:09
+running,2018-05-31 12:01:29,Charlotte Running,0.51,5:11.4,153,10:14
+running,2018-05-30 08:03:48,Charlotte Running,4.07,39:13,157,9:38
+running,2018-05-29 18:18:07,Charlotte Running,5.12,51:54,147,10:08
+running,2018-05-28 09:12:59,Iredell County Running,4.01,33:32,166,8:22
+running,2018-05-28 08:56:51,Iredell County Running,1,10:23,157,10:24
+running,2018-05-27 09:09:13,Iredell County Running,5.5,56:46,148,10:19
+running,2018-05-26 09:23:08,Iredell County Running,12,2:02:07,147,10:11
+running,2018-05-24 09:36:29,Iredell County Running,5,43:32,159,8:42
+running,2018-05-23 19:08:38,Iredell County Running,3,31:53,141,10:38
+running,2018-05-22 08:52:57,Iredell County Running,4,37:06,157,9:16
+running,2018-05-21 07:13:58,Charlotte Running,5.5,53:34,150,9:44
+running,2018-05-20 11:07:37,Iredell County Running,3,32:37,152,10:53
+running,2018-05-19 09:34:08,Iredell County Running,11.63,2:00:12,158,10:20
+running,2018-05-18 11:22:51,Charlotte Running,4.5,37:54,162,8:25
+running,2018-05-18 11:17:02,Charlotte Running,0.25,2:01.7,140,8:02
+running,2018-05-17 12:15:31,Charlotte Running,4,39:38,151,9:54
+track_running,2018-05-16 11:10:00,Davidson n track workout,3.5,0:00,--,--
+running,2018-05-14 19:50:26,Iredell County Running,5,49:56,148,9:59
+running,2018-05-12 19:30:45,Iredell County Running,5,52:39,151,10:32
+running,2018-05-11 22:19:26,Iredell County Running,1.02,7:42.9,164,7:34
+running,2018-05-11 21:39:21,Iredell County Running,3.4,33:57,146,9:59
+running,2018-05-07 21:01:13,Iredell County Running,1,11:00,135,11:02
+running,2018-05-07 20:38:48,Iredell County Running,2,16:47,159,8:24
+running,2018-05-07 20:31:48,Iredell County Running,0.35,3:00.3,144,8:41
+running,2018-05-07 20:28:27,Iredell County Running,0.25,1:49.4,158,7:18
+running,2018-05-07 20:21:58,Iredell County Running,0.51,4:56.2,149,9:46
+running,2018-05-06 11:11:30,Iredell County Running,7.08,1:17:27,152,10:56
+running,2018-05-05 09:31:48,Iredell County Running,6,1:04:12,153,10:42
+running,2018-05-04 08:26:42,Charlotte Running,1.48,12:30,161,8:25
+running,2018-05-04 07:58:31,Charlotte Running,2.01,16:09,163,8:03
+running,2018-05-02 17:21:00,Charlotte Running,5,57:05,138,11:25
+track_running,2018-05-01 21:16:41,Davidson Running,0.25,2:23.8,140,9:25
+track_running,2018-05-01 21:14:59,Davidson Running,0.05,0:16.6,115,5:11
+track_running,2018-05-01 21:13:01,Davidson Running,0.06,0:19.7,131,5:27
+track_running,2018-05-01 21:11:28,Davidson Running,0.05,0:15.2,117,4:41
+track_running,2018-05-01 21:08:41,Davidson Running,0.06,0:14.9,110,4:30
+track_running,2018-05-01 21:03:26,Davidson Running,0.13,0:41.4,126,5:26
+track_running,2018-05-01 20:59:25,Davidson Running,0.13,0:43.3,135,5:26
+track_running,2018-05-01 20:56:21,Davidson Running,0.13,0:38.5,135,5:05
+track_running,2018-05-01 20:54:05,Davidson Running,0.14,0:42.9,120,5:13
+track_running,2018-05-01 20:46:34,Davidson Running,0.19,1:13.5,138,6:26
+track_running,2018-05-01 20:43:45,Davidson Running,0.19,1:16.7,134,6:52
+track_running,2018-05-01 20:40:21,Davidson Running,0.2,1:20.2,129,6:42
+track_running,2018-05-01 20:35:45,Davidson Running,0.2,1:21.4,130,6:50
+track_running,2018-05-01 20:23:47,Davidson Running,1.07,8:12.6,156,7:41
+track_running,2018-05-01 20:15:49,Davidson Running,0.26,2:27.5,133,9:36
+running,2018-04-30 17:57:45,Charlotte Running,4,45:45,136,11:26
+running,2018-04-29 11:33:02,Iredell County Running,0.25,2:52.3,137,11:39
+running,2018-04-29 10:18:07,Iredell County Running,8,1:10:55,165,8:52
+running,2018-04-29 10:10:56,Iredell County Running,0.5,4:34.0,164,9:09
+track_running,2018-04-28 17:10:28,Davidson Running,0.24,1:38.6,137,6:43
+track_running,2018-04-28 17:03:24,Davidson Running,0.24,1:42.6,139,6:59
+track_running,2018-04-28 16:56:44,Davidson Running,0.25,1:39.8,142,6:45
+track_running,2018-04-28 16:50:15,Davidson Running,0.25,1:41.4,141,6:48
+track_running,2018-04-28 16:42:06,Davidson Running,0.5,5:14.7,143,10:24
+running,2018-04-26 07:50:08,Charlotte Running,4,44:43,149,11:10
+running,2018-04-24 08:30:29,Charlotte Running,4,37:11,161,9:18
+running,2018-04-22 12:45:09,Iredell County Running,8,1:24:26,144,10:33
+running,2018-04-21 11:25:55,Iredell County Running,6.21,53:58,162,8:41
+running,2018-04-20 17:54:39,Charlotte Running,4.04,40:10,141,9:57
+running,2018-04-19 17:43:00,Charlotte Running,4,38:03,149,9:30
+running,2018-04-19 08:28:49,Charlotte Running,0.5,6:19.5,145,12:41
+running,2018-04-19 07:48:32,Charlotte Running,4.01,38:51,158,9:42
+running,2018-04-18 18:17:17,Charlotte Running,3.39,37:35,143,11:06
+running,2018-04-17 08:43:09,Charlotte Running,0.89,8:29.5,148,9:30
+running,2018-04-17 08:05:04,Charlotte Running,4,36:17,166,9:04
+running,2018-04-15 13:08:43,Iredell County Running,8.01,1:27:27,--,10:55
+running,2018-04-14 10:43:04,Iredell County Running,6.68,1:12:26,161,10:50
+running,2018-04-11 08:13:16,Iredell County Running,0.36,5:02.6,134,14:00
+running,2018-04-11 07:16:31,Iredell County Running,5,53:53,149,10:47
+trail_running,2018-04-08 10:51:00,Gastonia crowders mountain (hike),11.4,2:33:00,--,13:25
+running,2018-04-07 10:14:12,Iredell County Running,1,10:48,143,10:46
+running,2018-04-07 09:40:35,Iredell County Running,3.11,26:15,171,8:27
+running,2018-04-07 09:26:30,Iredell County Running,1,10:46,158,10:44
+running,2018-04-05 07:34:46,Charlotte Running,7,1:06:56,156,9:34
+running,2018-04-04 11:10:37,Charlotte Running,0.62,9:30.9,141,15:28
+running,2018-04-04 10:20:14,Charlotte Running,4,42:08,--,10:32
+running,2018-04-03 08:44:37,Charlotte Running,0.48,6:22.3,133,13:21
+running,2018-04-03 07:55:28,Charlotte Running,5,47:10,156,9:26
+running,2018-04-01 10:49:37,Iredell County Running,3.11,26:17,168,8:28
+running,2018-03-31 10:02:46,Iredell County Running,9,1:27:47,157,9:45
+running,2018-03-29 19:19:23,Huntersville Running,5,46:29,153,9:18
+running,2018-03-28 15:40:05,Charlotte Running,4,41:03,146,10:16
+running,2018-03-28 08:20:24,Charlotte Running,3,28:36,152,9:32
+running,2018-03-27 18:59:44,Charlotte Running,1.01,11:39,143,11:32
+running,2018-03-27 18:38:08,Charlotte Running,1.45,17:05,157,11:46
+running,2018-03-27 18:14:24,Charlotte Running,2,19:52,144,9:56
+running,2018-03-25 12:43:45,Iredell County Running,8.49,1:25:42,155,10:06
+running,2018-03-23 08:00:21,Charlotte Running,4,40:43,157,10:11
+running,2018-03-22 13:52:58,Charlotte Running,6.21,55:43,156,8:58
+running,2018-03-21 08:36:35,Charlotte Running,4,34:51,164,8:43
+running,2018-03-19 18:25:18,Charlotte Running,3.5,35:13,143,10:04
+running,2018-03-18 14:31:14,Iredell County Running,8.5,1:29:56,158,10:35
+running,2018-03-17 22:46:32,Iredell County Running,1.01,8:29.1,154,8:26
+running,2018-03-17 21:50:59,Iredell County Running,1.95,19:30,149,10:00
+running,2018-03-16 20:03:17,Charlotte Running,1.06,11:03,127,10:23
+running,2018-03-16 19:28:51,Charlotte Running,3.02,29:06,145,9:38
+running,2018-03-15 18:49:40,Charlotte Running,1,12:53,133,12:53
+running,2018-03-15 18:19:53,Charlotte Running,1.36,15:03,151,11:04
+running,2018-03-15 17:51:41,Charlotte Running,2.02,22:31,146,11:10
+running,2018-03-13 17:36:04,Charlotte Running,4,45:34,147,11:23
+running,2018-03-13 08:13:14,Charlotte Running,3,33:40,158,11:13
+running,2018-03-11 11:46:47,Iredell County Running,8,1:35:34,151,11:57
+running,2018-03-11 11:39:04,Iredell County Running,0.5,6:18.0,154,12:37
+running,2018-03-09 17:49:30,Charlotte Running,6,1:05:18,147,10:53
+running,2018-03-09 17:36:56,Charlotte Running,0.51,6:08.4,140,11:59
+running,2018-03-08 17:58:20,Charlotte Running,5.01,51:24,146,10:16
+running,2018-03-07 09:11:57,Iredell County Running,2,18:51,163,9:25
+running,2018-03-07 08:57:54,Iredell County Running,1,12:28,150,12:29
+running,2018-03-04 12:10:32,Iredell County Running,8,1:40:01,150,12:30
+running,2018-03-03 16:11:34,Iredell County Running,3.1,28:57,164,9:20
+running,2018-03-02 10:40:21,Cornelius Running,6,1:23:18,146,13:53
+running,2018-03-01 10:54:37,Iredell County Running,5.5,1:04:47,149,11:47
+running,2018-02-28 10:47:19,Iredell County Running,4,46:38,151,11:40
+running,2018-02-24 16:29:51,Charlotte Running,3,35:25,140,11:49
+running,2018-02-23 09:22:05,Mooresville Running,5,54:38,148,10:56
+running,2018-02-22 12:20:53,Davidson Running,3.1,30:58,166,10:00
+running,2018-02-22 11:54:07,Davidson Running,1,14:57,146,14:59
+running,2018-02-19 08:16:20,Mooresville Running,4,48:26,148,12:07
+running,2018-02-18 09:26:58,Mooresville Running,5,58:16,149,11:40
+running,2018-02-16 09:30:38,Mooresville Running,3,29:56,159,9:58
+running,2018-02-15 11:32:23,Mooresville Running,4,41:09,164,10:17
+running,2018-02-13 10:09:53,Mooresville Running,6.25,1:00:59,153,9:45
+running,2018-02-12 13:22:53,Mooresville Running,4,42:04,149,10:31
+running,2018-02-10 17:34:10,Mooresville Running,4,43:25,149,10:52
+running,2018-02-09 11:51:16,Mooresville Running,6,1:00:37,158,10:06
+running,2018-02-07 21:53:22,Mooresville Running,4,41:16,152,10:19
+running,2018-02-07 13:04:18,Huntersville Running,1,9:40.7,153,9:41
+running,2018-02-06 11:56:29,Mooresville Running,2.17,25:55,168,11:58
+running,2018-02-04 14:44:48,Mooresville Running,1.33,24:26,140,18:24
+running,2018-02-03 21:37:57,Mooresville Running,0.37,3:07.0,166,8:19
+running,2018-02-03 21:33:24,Mooresville Running,0.36,3:35.0,162,9:59
+running,2018-02-03 21:20:06,Mooresville Running,1.03,10:56,157,10:39
+running,2018-02-01 20:21:39,Charlotte Running,0.39,3:09.2,158,8:05
+running,2018-02-01 13:44:27,Mooresville Running,3,34:50,157,11:38
+running,2018-01-31 12:25:01,Mooresville Running,3.75,37:13,172,9:56
+running,2018-01-30 22:03:26,Charlotte Running,2,18:34,158,9:18
+running,2018-01-27 17:11:21,Charlotte Running,2.04,18:33,153,9:06
+running,2018-01-25 11:18:37,Mooresville Running,6,59:13,170,9:52
+street_running,2018-01-23 15:20:00,mooresville running,3.5,30:14,--,8:38
+track_running,2018-01-22 15:17:00,davidson Running,2.5,21:34,--,8:38
+street_running,2018-01-21 15:28:00,moorsville running,4.5,41:13,--,9:10
+street_running,2018-01-19 15:29:00,mooresville running,3.5,33:14,--,9:30
+street_running,2018-01-18 15:30:00,mooresville running,5,53:56,--,10:47
+street_running,2018-01-16 15:31:00,mooreville Running,3,28:56,--,9:39
+street_running,2018-01-15 15:32:00,mooresville Running,2.5,22:38,--,9:03
+street_running,2018-01-14 15:33:00,mooresville running,4.5,42:41,--,9:29
+street_running,2018-01-11 15:34:00,mooresville running,5,46:55,--,9:23
+street_running,2018-01-09 15:35:00,mooresville running,3.5,33:08,--,9:28
+street_running,2018-01-07 15:36:00,mooresville running,3.5,34:27,--,9:51
+running,2018-01-05 00:15:00,Running,3.5,34:46,--,9:56
+running,2018-01-03 00:17:00,Running ,3,31:56,--,10:39
+running,2018-01-01 00:20:00,Running ,3,30:37,--,10:12
+running,2017-12-30 00:21:00,Running ,3,33:37,--,11:12
+high_school,2004-09-20 09:48:00,Best mile high school ,1,6:05,--,6:05
