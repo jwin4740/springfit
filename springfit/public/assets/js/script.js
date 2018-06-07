@@ -23,7 +23,7 @@ var line = d3.line()
 var g = svg.append("g")
   .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("assets/running_data_small.json", function (error, data) {
+d3.json("assets/running_data_noduplicatedate.json", function (error, data) {
   if (error) throw error;
   // console.log(data);
 
@@ -53,7 +53,7 @@ d3.json("assets/running_data_small.json", function (error, data) {
   g.append("g")
     .attr("class", "axis axis--x")
     .attr("transform", "translate(0," + (height - margin.bottom) + ")")
-    .call(d3.axisBottom(x).ticks(6))
+    .call(d3.axisBottom(x))
     .append('text')
     .attr("class", "axis-tspan")
     .attr("x", 0)

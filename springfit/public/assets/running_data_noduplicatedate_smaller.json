@@ -1,0 +1,242 @@
+[
+  {
+    "Activity_Type": "treadmill_running",
+    "Date": "2018-06-04",
+    "Title": "Treadmill Running",
+    "Distance": 3.11,
+    "Time": 1886,
+    "Avg_HR": 136,
+    "Avg_Pace": 605
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-06-03",
+    "Title": "Iredell County Running",
+    "Distance": 13.11,
+    "Time": 7385,
+    "Avg_HR": 163,
+    "Avg_Pace": 563
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-06-01",
+    "Title": "Charlotte Running",
+    "Distance": 6.21,
+    "Time": 3491,
+    "Avg_HR": 152,
+    "Avg_Pace": 562
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-31",
+    "Title": "Charlotte Running",
+    "Distance": 3.51,
+    "Time": 1925,
+    "Avg_HR": 163,
+    "Avg_Pace": 549
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-30",
+    "Title": "Charlotte Running",
+    "Distance": 4.07,
+    "Time": 2353,
+    "Avg_HR": 157,
+    "Avg_Pace": 578
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-29",
+    "Title": "Charlotte Running",
+    "Distance": 5.12,
+    "Time": 3114,
+    "Avg_HR": 147,
+    "Avg_Pace": 608
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-28",
+    "Title": "Iredell County Running",
+    "Distance": 4.01,
+    "Time": 2012,
+    "Avg_HR": 166,
+    "Avg_Pace": 502
+  },
+
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-27",
+    "Title": "Iredell County Running",
+    "Distance": 5.5,
+    "Time": 3406,
+    "Avg_HR": 148,
+    "Avg_Pace": 619
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-26",
+    "Title": "Iredell County Running",
+    "Distance": 12,
+    "Time": 7327,
+    "Avg_HR": 147,
+    "Avg_Pace": 611
+  }, {
+    "Activity_Type": "running",
+    "Date": "2018-05-24",
+    "Title": "Iredell County Running",
+    "Distance": 5,
+    "Time": 2612,
+    "Avg_HR": 159,
+    "Avg_Pace": 522
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-23",
+    "Title": "Iredell County Running",
+    "Distance": 3,
+    "Time": 1913,
+    "Avg_HR": 141,
+    "Avg_Pace": 638
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-22",
+    "Title": "Iredell County Running",
+    "Distance": 4,
+    "Time": 2226,
+    "Avg_HR": 157,
+    "Avg_Pace": 556
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-21",
+    "Title": "Charlotte Running",
+    "Distance": 5.5,
+    "Time": 3214,
+    "Avg_HR": 150,
+    "Avg_Pace": 584
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-20",
+    "Title": "Iredell County Running",
+    "Distance": 3,
+    "Time": 1957,
+    "Avg_HR": 152,
+    "Avg_Pace": 653
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-19",
+    "Title": "Iredell County Running",
+    "Distance": 11.63,
+    "Time": 7212,
+    "Avg_HR": 158,
+    "Avg_Pace": 620
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-18",
+    "Title": "Charlotte Running",
+    "Distance": 4.5,
+    "Time": 2274,
+    "Avg_HR": 162,
+    "Avg_Pace": 505
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-17",
+    "Title": "Charlotte Running",
+    "Distance": 4,
+    "Time": 2378,
+    "Avg_HR": 151,
+    "Avg_Pace": 594
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-14",
+    "Title": "Iredell County Running",
+    "Distance": 5,
+    "Time": 2996,
+    "Avg_HR": 148,
+    "Avg_Pace": 599
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-12",
+    "Title": "Iredell County Running",
+    "Distance": 5,
+    "Time": 3159,
+    "Avg_HR": 151,
+    "Avg_Pace": 632
+  },
+
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-11",
+    "Title": "Iredell County Running",
+    "Distance": 3.4,
+    "Time": 2037,
+    "Avg_HR": 146,
+    "Avg_Pace": 599
+  },
+
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-07",
+    "Title": "Iredell County Running",
+    "Distance": 2,
+    "Time": 1007,
+    "Avg_HR": 159,
+    "Avg_Pace": 504
+  },
+
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-06",
+    "Title": "Iredell County Running",
+    "Distance": 7.08,
+    "Time": 4647,
+    "Avg_HR": 152,
+    "Avg_Pace": 656
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-05",
+    "Title": "Iredell County Running",
+    "Distance": 6,
+    "Time": 3852,
+    "Avg_HR": 153,
+    "Avg_Pace": 642
+  },
+
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-04",
+    "Title": "Charlotte Running",
+    "Distance": 2.01,
+    "Time": 969,
+    "Avg_HR": 163,
+    "Avg_Pace": 483
+  },
+  {
+    "Activity_Type": "running",
+    "Date": "2018-05-02",
+    "Title": "Charlotte Running",
+    "Distance": 5,
+    "Time": 3425,
+    "Avg_HR": 138,
+    "Avg_Pace": 685
+  },
+ 
+  {
+    "Activity_Type": "track_running",
+    "Date": "2018-05-01",
+    "Title": "Davidson Running",
+    "Distance": 1.07,
+    "Time": "8:12.6",
+    "Avg_HR": 156,
+    "Avg_Pace": "7:41"
+  }
+]
+
