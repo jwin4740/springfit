@@ -14,71 +14,83 @@
 	<script src="assets/js/d3_v4.js"></script>
 </head>
 <style>
-body {  
-  font-family: 'Droid Sans', sans-serif;  
-}
-  
-.axis {
-	font-size: 14px;
-  font-weight: bold;
-}
-  
-text {
-  fill: #727075;
-  stroke: none;
-}
+	body {
+		font-family: 'Droid Sans', sans-serif;
+	}
 
-.axis path,
-.axis line {
-  fill: none;
-  stroke: black;
-  stroke-width: 2px;
-  shape-rendering: crispEdges;
-}
+	.axis {
+		font-size: 14px;
+		font-weight: bold;
+	}
 
-.grid path {
-  stroke: none;
-}
+	text {
+		fill: #727075;
+		stroke: none;
+	}
 
-.grid line {
-  stroke: #E0E0E0;
-  shape-rendering: crispEdges;
-}
-  
-.data-line {
-  fill: none;
-  stroke: #3C92BA;
-  stroke-width: 4px;
-}
-  
-.data-circle {
-	fill: #3C92BA;     
-}
-  
-.axis-title {
-	text-anchor: end;
-  fill: #5D6971;
-  font-weight: normal;
-}
-  
-.axis-tspan {
-	font-size: 12px;
-}
+	.axis path,
+	.axis line {
+		fill: none;
+		stroke: black;
+		stroke-width: 2px;
+		shape-rendering: crispEdges;
+	}
 
-.clinical-cut-off-line {
-  fill: none;
-  stroke: #89868E;
-  stroke-dasharray: 8,8;
-  stroke-width: 4px;
-}
+	.grid path {
+		stroke: none;
+	}
 
-.clinical-cut-off-text {
-  text-transform: uppercase;
-  text-anchor: start;
-	font-size: 12px;
-  font-weight: bold;
-}
-  
+	.grid line {
+		stroke: #E0E0E0;
+		shape-rendering: crispEdges;
+	}
+
+	.data-line {
+		fill: none;
+		stroke: #3C92BA;
+		stroke-width: 2px;
+	}
+
+	.data-circle {
+		fill: #3C92BA;
+	}
+
+	.axis-title {
+		text-anchor: end;
+		fill: #5D6971;
+		font-weight: normal;
+	}
+
+	.axis-tspan {
+		font-size: 12px;
+	}
+
+	#tooltip {
+		position: absolute;
+		width: 200px;
+		height: 120px;
+		padding: 10px;
+		color: black;
+		-webkit-border-radius: 10px;
+		-moz-border-radius: 10px;
+		border-radius: 10px;
+		-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+		-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+		box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+		pointer-events: none;
+
+	}
+
+	#tooltip.hidden {
+		display: none;
+	}
+
+	#tooltip p {
+		margin: 0;
+		font-family: Futura;
+		font-size: 16px;
+		line-height: 20px;
+	}
 </style>
 
 <body>

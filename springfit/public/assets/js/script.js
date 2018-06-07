@@ -11,7 +11,7 @@ var svg = d3.select("svg"),
 var parseTime = d3.timeParse("%Y-%m-%d");
 // bisectDate = d3.bisector(function(d) { return d.Date; }).left;
 
-var clinicalCutOffValue = 70;
+
 
 var x = d3.scaleTime().range([0, width]);
 var y = d3.scaleLinear().range([height - (margin.top * 2), 0]);
@@ -77,7 +77,32 @@ d3.json("assets/running_data_noduplicatedate.json", function (error, data) {
   g.append("path")
       .datum(data)
       .attr("class", "data-line")
-      .attr("d", line);
+      .attr("d", line)
+      .on("mouseover", function(d) {
+        console.log(d);
+        
+
+
+        var xPosition = parseFloat(d3.select(this).attr("x"));
+        var yPosition = parseFloat(d3.select(this).attr("y")) / 2 + height / 2;
+        d3.select("#tooltip").classed("hidden", false);
+        
+        d3.select("#tooltip")
+          // .style("left", xPosition + "px")
+          // .style("top", yPosition + "px")
+          .style("left","5px")
+          .style("top","5px")
+          .style("cursor", "pointer")
+          .select("#value")
+          .text(d);
+
+       })
+       .on("mouseout", function() {
+
+
+        d3.select("#tooltip").classed("hidden", true);
+
+       })
 
 
 });
