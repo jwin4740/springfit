@@ -20,7 +20,7 @@
 		height = +svg.attr("height") - margin.top - margin.bottom,
 		g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-	const parseTime = d3.timeParse("%d-%b-%y");
+	const parseTime = d3.timeParse("%y-%b-%d");
 
 	let x = d3.scaleTime()
 		.rangeRound([0, width]);
@@ -39,9 +39,10 @@
 	d3.json("/assets/running_data.json", function (d) {
 		d.date = parseTime(d.Date);
 		d.Avg_Pace = +d.Avg_Pace;
-		console.log(d);
+		{{!-- console.log(d); --}}
 		return d;
 	}, function (error, data) {
+		console.log(data);
 		if (error) throw error;
 
 		x.domain(d3.extent(data, function (d) {
