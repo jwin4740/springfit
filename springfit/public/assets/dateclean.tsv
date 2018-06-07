@@ -1,4 +1,5 @@
- [
+{
+  "main": [
     {
       "Activity_Type": "treadmill_running",
       "Date": "2018-06-04",
@@ -1420,6 +1421,15 @@
       "Time": 2017,
       "Avg_HR": "--",
       "Avg_Pace": 672
+    },
+    {
+      "Activity_Type": "high_school",
+      "Date": "2004-09-20",
+      "Title": "Best mile high school",
+      "Distance": 1,
+      "Time": 365,
+      "Avg_HR": "--",
+      "Avg_Pace": 365
     }
   ]
-
+}

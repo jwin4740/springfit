@@ -1,19 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<title>Spring Fit</title>
-		<meta charset="UTF-8">
-		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
-		<link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
-	</head>
-	<body>
-		{{{ body }}}
 
-		{{!-- Add in jQuery --}}
-		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="/assets/js/script.js"></script>
-	</body>
+<head>
+	<title>Spring Fit</title>
+	<meta charset="UTF-8">
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+	    crossorigin="anonymous">
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r"
+	    crossorigin="anonymous">
+	<link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
+	<script src="assets/js/d3_v4.js"></script>
+</head>
+<style>
+body {  
+  font-family: 'Droid Sans', sans-serif;  
+}
+  
+.axis {
+	font-size: 14px;
+  font-weight: bold;
+}
+  
+text {
+  fill: #727075;
+  stroke: none;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: black;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+
+.grid path {
+  stroke: none;
+}
+
+.grid line {
+  stroke: #E0E0E0;
+  shape-rendering: crispEdges;
+}
+  
+.data-line {
+  fill: none;
+  stroke: #3C92BA;
+  stroke-width: 4px;
+}
+  
+.data-circle {
+	fill: #3C92BA;     
+}
+  
+.axis-title {
+	text-anchor: end;
+  fill: #5D6971;
+  font-weight: normal;
+}
+  
+.axis-tspan {
+	font-size: 12px;
+}
+
+.clinical-cut-off-line {
+  fill: none;
+  stroke: #89868E;
+  stroke-dasharray: 8,8;
+  stroke-width: 4px;
+}
+
+.clinical-cut-off-text {
+  text-transform: uppercase;
+  text-anchor: start;
+	font-size: 12px;
+  font-weight: bold;
+}
+  
+</style>
+
+<body>
+	{{{ body }}} {{!-- Add in jQuery --}}
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script src="/assets/js/script.js"></script>
+</body>
+
 </HTML>
