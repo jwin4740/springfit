@@ -15,81 +15,42 @@
 </head>
 <style>
 	body {
-		font-family: 'Droid Sans', sans-serif;
+		background-color: #F1F3F3
 	}
 
 	.axis {
-		font-size: 14px;
-		font-weight: bold;
-	}
-
-	text {
-		fill: #727075;
-		stroke: none;
+		font: 10px sans-serif;
 	}
 
 	.axis path,
 	.axis line {
 		fill: none;
-		stroke: black;
+		stroke: #D4D8DA;
 		stroke-width: 2px;
 		shape-rendering: crispEdges;
 	}
 
-	.grid path {
-		stroke: none;
-	}
-
-	.grid line {
-		stroke: #E0E0E0;
-		shape-rendering: crispEdges;
-	}
-
-	.data-line {
+	.line {
 		fill: none;
-		stroke: #3C92BA;
+		stroke: #6F257F;
+		stroke-width: 5px;
+	}
+
+	.overlay {
+		fill: none;
+		pointer-events: all;
+	}
+
+	.focus circle {
+		fill: #F1F3F3;
+		stroke: #6F257F;
+		stroke-width: 5px;
+	}
+
+	.hover-line {
+		stroke: #6F257F;
 		stroke-width: 2px;
-	}
-
-	.data-circle {
-		fill: #3C92BA;
-	}
-
-	.axis-title {
-		text-anchor: end;
-		fill: #5D6971;
-		font-weight: normal;
-	}
-
-	.axis-tspan {
-		font-size: 12px;
-	}
-
-	#tooltip {
-		position: absolute;
-		width: 200px;
-		height: 120px;
-		padding: 10px;
-		color: black;
-		-webkit-border-radius: 10px;
-		-moz-border-radius: 10px;
-		border-radius: 10px;
-		-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-		-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-		box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-		pointer-events: none;
-
-	}
-
-	#tooltip.hidden {
-		display: none;
-	}
-
-	#tooltip p {
-		margin: 0;
-		font-family: Futura;
-		font-size: 16px;
-		line-height: 20px;
+		stroke-dasharray: 3, 3;
 	}
 </style>
 

@@ -9,100 +9,112 @@ var svg = d3.select("svg"),
   height = +svg.attr("height") - margin.top - margin.bottom;
 
 var parseTime = d3.timeParse("%Y-%m-%d");
-// bisectDate = d3.bisector(function(d) { return d.Date; }).left;
-
-
+bisectDate = d3.bisector(function (d) {
+  return d.Date;
+}).left;
 
 var x = d3.scaleTime().range([0, width]);
-var y = d3.scaleLinear().range([height - (margin.top * 2), 0]);
+var y = d3.scaleLinear().range([height, 0]);
 
 var line = d3.line()
-  .x(function (d) {return x(d.Date);})
-  .y(function (d) {return y(d.Avg_Pace);});
+  .x(function (d) {
+    return x(d.Date);
+  })
+  .y(function (d) {
+    return y(d.Avg_Pace);
+  });
 
 var g = svg.append("g")
   .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 d3.json("assets/running_data_noduplicatedate.json", function (error, data) {
   if (error) throw error;
-  // console.log(data);
-
 
   data.forEach(function (d) {
-    d.Avg_Pace = +d.Avg_Pace;
     d.Date = parseTime(d.Date);
+    d.Avg_Pace = +d.Avg_Pace;
   });
-  console.log(data[0]);
-
+  console.log(data);
+  
 
   x.domain(d3.extent(data, function (d) {
     return d.Date;
   }));
-  
+  y.domain([d3.min(data, function (d) {
+    return d.Avg_Pace;
+  }) / 1.005, d3.max(data, function (d) {
+    return d.Avg_Pace;
+  }) * 1.005]);
 
-  y.domain([
-    (Math.floor(d3.min(data, function (d) {
-      return d.Avg_Pace;
-    }) / 10) * 10),
-    (Math.ceil(d3.max(data, function (d) {
-      return d.Avg_Pace;
-    }) / 10) * 10)
-  ]);
-
-  // x axis label
   g.append("g")
     .attr("class", "axis axis--x")
-    .attr("transform", "translate(0," + (height - margin.bottom) + ")")
-    .call(d3.axisBottom(x))
-    .append('text')
-    .attr("class", "axis-tspan")
-    .attr("x", 0)
-    .attr("y", 0)
-    .attr("dx", "3.1em")
-    .text("Time");
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x));
 
-  // y axis label
   g.append("g")
     .attr("class", "axis axis--y")
-    .call(d3.axisLeft(y).ticks(6))
+    .call(d3.axisLeft(y).ticks(6).tickFormat(function (d) {
+      return parseInt(d);
+    }))
     .append("text")
     .attr("class", "axis-title")
     .attr("transform", "rotate(-90)")
     .attr("y", 6)
-    .attr("dy", "0.71em")
-    .text("Avg Pace (seconds)");
+    .attr("dy", ".71em")
+    .style("text-anchor", "end")
+    .attr("fill", "#5D6971")
+    .text("Avg_Pace");
 
-
-  // Data line
   g.append("path")
-      .datum(data)
-      .attr("class", "data-line")
-      .attr("d", line)
-      .on("mouseover", function(d) {
-        console.log(d);
-        
+    .datum(data)
+    .attr("class", "line")
+    .attr("d", line);
 
+  var focus = g.append("g")
+    .attr("class", "focus")
+    .style("display", "none");
 
-        var xPosition = parseFloat(d3.select(this).attr("x"));
-        var yPosition = parseFloat(d3.select(this).attr("y")) / 2 + height / 2;
-        d3.select("#tooltip").classed("hidden", false);
-        
-        d3.select("#tooltip")
-          // .style("left", xPosition + "px")
-          // .style("top", yPosition + "px")
-          .style("left","5px")
-          .style("top","5px")
-          .style("cursor", "pointer")
-          .select("#value")
-          .text(d);
+  focus.append("line")
+    .attr("class", "x-hover-line hover-line")
+    .attr("y1", 0)
+    .attr("y2", height);
 
-       })
-       .on("mouseout", function() {
+  focus.append("line")
+    .attr("class", "y-hover-line hover-line")
+    .attr("x1", width)
+    .attr("x2", width);
 
+  focus.append("circle")
+    .attr("r", 7.5);
 
-        d3.select("#tooltip").classed("hidden", true);
+  focus.append("text")
+    .attr("x", 15)
+    .attr("dy", ".31em");
 
-       })
+  svg.append("rect")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+    .attr("class", "overlay")
+    .attr("width", width)
+    .attr("height", height)
+    .on("mouseover", function () {
+      focus.style("display", null);
+    })
+    .on("mouseout", function () {
+      focus.style("display", "none");
+    })
+    .on("mousemove", mousemove);
 
-
+  function mousemove() {
+    var x0 = x.invert(d3.mouse(this)[0]),
+      i = bisectDate(data, x0, 1),
+      d0 = data[i - 1],
+      d1 = data[i],
+      d = x0 - d0.Date > d1.Date - x0 ? d1 : d0;
+    focus.attr("transform", "translate(" + x(d.Date) + "," + y(d.Avg_Pace) + ")");
+    focus.select("text").text(function () {
+      return d.Avg_Pace;
+    });
+    focus.select(".x-hover-line").attr("y2", height - y(d.Avg_Pace));
+    focus.select(".y-hover-line").attr("x2", width + width);
+  }
 });
