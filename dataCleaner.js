@@ -1446,54 +1446,76 @@ let overHourRegex = /.+\:.+\:/
 function cleanJson() {
     let overHour = false;
     const dateCleanArray = runObjArray.map((val, index) => {
+
         let a = val.Date.match(/\d{4}-\d{2}-\d{2}/)[0];
-        let origTime = val.Time;
-        let timeArr = val.Time.split("");
-        let timeSeconds;
-        if (timeArr.includes(".")) {
+
+        if (val.Activity_Type != "track_running") {
+            let origTime = val.Time;
+            // console.log(origTime);
+
+            let timeArr = val.Time.split("");
+            let timeSeconds;
             // console.log(timeArr);
-            const val = timeArr.indexOf(".");
-            const j = timeArr.splice(val);
+
+            if (timeArr.includes(".")) {
+                // console.log(timeArr);
+                const val = timeArr.indexOf(".");
+                const j = timeArr.splice(val);
+
+
+
+            }
+
+            let t = timeArr.join("");
+            // console.log(t);
+
+            if (overHourRegex.test(t)) {
+                // console.log(t);
+
+                let hours = parseInt(t.match(/\d{1,2}/)[0]);
+                let minutes = parseInt(t.match(/(\d{1,2}\:)(\d{1,2})/)[2]);
+                let seconds = parseInt(t.match(/(\d{1,2}\:)(\d{1,2}\:)(\d{1,2})/)[3]);
+                // console.log(t);
+
+                // console.log("hours", hours);
+                // console.log("minutes", minutes);
+                // console.log("seconds", seconds + "\n");
+                timeSeconds = (3600 * hours) + (60 * minutes) + seconds;
+
+
+
+            } else {
+                let minutes = parseInt(t.match(/\d{1,2}/)[0]);
+                let seconds = parseInt(t.match(/(\d{1,2}\:)(\d{1,2})/)[2]);
+                // console.log("minutes", minutes);
+                // console.log("seconds", seconds + "\n")
+                timeSeconds = (60 * minutes) + seconds;
+
+            }
+            console.log(val.Avg_Pace);
+
+            let paceMinutes = parseInt(val.Avg_Pace.match(/\d{1,2}/)[0]);
+            let paceSeconds = parseInt(val.Avg_Pace.match(/(\d{1,2}\:)(\d{1,2})/)[2]);
+            console.log("pace minutes", paceMinutes);
+            console.log("pace seconds", paceSeconds);
+            val.Avg_Pace = (60 * paceMinutes) + paceSeconds;
+            val.Time = timeSeconds;
             // console.log(time);
 
+            // console.log(time);
+            // let avg_pace = val.Avg_Pace;
+
+            // let newTimeSeconds;
+            // if(overHourRegex.test(time)){
+
+
+            // } else {
+            //     let t = time.split(":");
+            //     // console.log(t);
+
+            // }
         }
-        if (overHourRegex.test(origTime)) {
-            // console.log(origTime);
-            
-            let hours = parseInt(origTime.match(/\d{1,2}/)[0]);
-            let minutes = parseInt(origTime.match(/(\d{1,2}\:)(\d{1,2})/)[2]);
-            let seconds = parseInt(origTime.match(/(\d{1,2}\:)(\d{1,2}\:)(\d{1,2})/)[3]);
-            // console.log(origTime);
-            
-            // console.log("hours", hours);
-            // console.log("minutes", minutes);
-            // console.log("seconds", seconds + "\n");
-            
-
-
-        } else {
-            let minutes = parseInt(origTime.match(/\d{1,2}/)[0]);
-            let seconds = parseInt(origTime.match(/(\d{1,2}\:)(\d{1,2})/)[2]);
-            console.log("minutes", minutes);
-            console.log("seconds", seconds + "\n")
-
-        }
-        // console.log(time);
-
-        // console.log(time);
-        // let avg_pace = val.Avg_Pace;
-
-        // let newTimeSeconds;
-        // if(overHourRegex.test(time)){
-
-
-        // } else {
-        //     let t = time.split(":");
-        //     // console.log(t);
-
-        // }
-
-        // val.Date = a;
+        val.Date = a;
         // remove decimals
 
         return val;
@@ -1503,13 +1525,15 @@ function cleanJson() {
     const j = {
         main: dateCleanArray
     };
-    return JSON.stringify(j, null, 2);
+    let res = JSON.stringify(j, null, 2);
+    writeMe(res);
 }
 cleanJson();
 
 
+function writeMe(ob) {
+    fs.writeFile("dateclean.json", ob, function (err, data) {
+        if (!err) console.log("success");
 
-// fs.writeFile("dateclean.json", cleanJson(), function (err, data) {
-//     if(!err) console.log("success");
-
-// });
+    });
+}

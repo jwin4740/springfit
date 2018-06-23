@@ -1,0 +1,160 @@
+﻿ Activity_Type , Date , Title , Distance , Time , Avg_HR , Avg_Pace 
+ treadmill_running , 2018-06-04 , Treadmill Running , 3.11 , 1886 , 136 , 605 
+ running , 2018-06-03 , Iredell County Running , 13.11 , 7385 , 163 , 563 
+ running , 2018-06-01 , Charlotte Running , 6.21 , 3491 , 152 , 562 
+ running , 2018-05-31 , Charlotte Running , 3.51 , 1925 , 163 , 549 
+ running , 2018-05-31 , Charlotte Running , 0.51 , 311 , 153 , 614 
+ running , 2018-05-30 , Charlotte Running , 4.07 , 2353 , 157 , 578 
+ running , 2018-05-29 , Charlotte Running , 5.12 , 3114 , 147 , 608 
+ running , 2018-05-28 , Iredell County Running , 4.01 , 2012 , 166 , 502 
+ running , 2018-05-28 , Iredell County Running , 1 , 623 , 157 , 624 
+ running , 2018-05-27 , Iredell County Running , 5.5 , 3406 , 148 , 619 
+ running , 2018-05-26 , Iredell County Running , 12 , 7327 , 147 , 611 
+ running , 2018-05-24 , Iredell County Running , 5 , 2612 , 159 , 522 
+ running , 2018-05-23 , Iredell County Running , 3 , 1913 , 141 , 638 
+ running , 2018-05-22 , Iredell County Running , 4 , 2226 , 157 , 556 
+ running , 2018-05-21 , Charlotte Running , 5.5 , 3214 , 150 , 584 
+ running , 2018-05-20 , Iredell County Running , 3 , 1957 , 152 , 653 
+ running , 2018-05-19 , Iredell County Running , 11.63 , 7212 , 158 , 620 
+ running , 2018-05-18 , Charlotte Running , 4.5 , 2274 , 162 , 505 
+ running , 2018-05-18 , Charlotte Running , 0.25 , 121 , 140 , 482 
+ running , 2018-05-17 , Charlotte Running , 4 , 2378 , 151 , 594 
+ track_running , 2018-05-16 , Davidson n track workout , 3.5 , 0:00 , -- , -- 
+ running , 2018-05-14 , Iredell County Running , 5 , 2996 , 148 , 599 
+ running , 2018-05-12 , Iredell County Running , 5 , 3159 , 151 , 632 
+ running , 2018-05-11 , Iredell County Running , 1.02 , 462 , 164 , 454 
+ running , 2018-05-11 , Iredell County Running , 3.4 , 2037 , 146 , 599 
+ running , 2018-05-07 , Iredell County Running , 1 , 660 , 135 , 662 
+ running , 2018-05-07 , Iredell County Running , 2 , 1007 , 159 , 504 
+ running , 2018-05-07 , Iredell County Running , 0.35 , 180 , 144 , 521 
+ running , 2018-05-07 , Iredell County Running , 0.25 , 109 , 158 , 438 
+ running , 2018-05-07 , Iredell County Running , 0.51 , 296 , 149 , 586 
+ running , 2018-05-06 , Iredell County Running , 7.08 , 4647 , 152 , 656 
+ running , 2018-05-05 , Iredell County Running , 6 , 3852 , 153 , 642 
+ running , 2018-05-04 , Charlotte Running , 1.48 , 750 , 161 , 505 
+ running , 2018-05-04 , Charlotte Running , 2.01 , 969 , 163 , 483 
+ running , 2018-05-02 , Charlotte Running , 5 , 3425 , 138 , 685 
+ track_running , 2018-05-01 , Davidson Running , 0.25 , 2:23.8 , 140 , 9:25 
+ track_running , 2018-05-01 , Davidson Running , 0.05 , 0:16.6 , 115 , 5:11 
+ track_running , 2018-05-01 , Davidson Running , 0.06 , 0:19.7 , 131 , 5:27 
+ track_running , 2018-05-01 , Davidson Running , 0.05 , 0:15.2 , 117 , 4:41 
+ track_running , 2018-05-01 , Davidson Running , 0.06 , 0:14.9 , 110 , 4:30 
+ track_running , 2018-05-01 , Davidson Running , 0.13 , 0:41.4 , 126 , 5:26 
+ track_running , 2018-05-01 , Davidson Running , 0.13 , 0:43.3 , 135 , 5:26 
+ track_running , 2018-05-01 , Davidson Running , 0.13 , 0:38.5 , 135 , 5:05 
+ track_running , 2018-05-01 , Davidson Running , 0.14 , 0:42.9 , 120 , 5:13 
+ track_running , 2018-05-01 , Davidson Running , 0.19 , 1:13.5 , 138 , 6:26 
+ track_running , 2018-05-01 , Davidson Running , 0.19 , 1:16.7 , 134 , 6:52 
+ track_running , 2018-05-01 , Davidson Running , 0.2 , 1:20.2 , 129 , 6:42 
+ track_running , 2018-05-01 , Davidson Running , 0.2 , 1:21.4 , 130 , 6:50 
+ track_running , 2018-05-01 , Davidson Running , 1.07 , 8:12.6 , 156 , 7:41 
+ track_running , 2018-05-01 , Davidson Running , 0.26 , 2:27.5 , 133 , 9:36 
+ running , 2018-04-30 , Charlotte Running , 4 , 2745 , 136 , 686 
+ running , 2018-04-29 , Iredell County Running , 0.25 , 172 , 137 , 699 
+ running , 2018-04-29 , Iredell County Running , 8 , 4255 , 165 , 532 
+ running , 2018-04-29 , Iredell County Running , 0.5 , 274 , 164 , 549 
+ track_running , 2018-04-28 , Davidson Running , 0.24 , 1:38.6 , 137 , 6:43 
+ track_running , 2018-04-28 , Davidson Running , 0.24 , 1:42.6 , 139 , 6:59 
+ track_running , 2018-04-28 , Davidson Running , 0.25 , 1:39.8 , 142 , 6:45 
+ track_running , 2018-04-28 , Davidson Running , 0.25 , 1:41.4 , 141 , 6:48 
+ track_running , 2018-04-28 , Davidson Running , 0.5 , 5:14.7 , 143 , 10:24 
+ running , 2018-04-26 , Charlotte Running , 4 , 2683 , 149 , 670 
+ running , 2018-04-24 , Charlotte Running , 4 , 2231 , 161 , 558 
+ running , 2018-04-22 , Iredell County Running , 8 , 5066 , 144 , 633 
+ running , 2018-04-21 , Iredell County Running , 6.21 , 3238 , 162 , 521 
+ running , 2018-04-20 , Charlotte Running , 4.04 , 2410 , 141 , 597 
+ running , 2018-04-19 , Charlotte Running , 4 , 2283 , 149 , 570 
+ running , 2018-04-19 , Charlotte Running , 0.5 , 379 , 145 , 761 
+ running , 2018-04-19 , Charlotte Running , 4.01 , 2331 , 158 , 582 
+ running , 2018-04-18 , Charlotte Running , 3.39 , 2255 , 143 , 666 
+ running , 2018-04-17 , Charlotte Running , 0.89 , 509 , 148 , 570 
+ running , 2018-04-17 , Charlotte Running , 4 , 2177 , 166 , 544 
+ running , 2018-04-15 , Iredell County Running , 8.01 , 5247 , -- , 655 
+ running , 2018-04-14 , Iredell County Running , 6.68 , 4346 , 161 , 650 
+ running , 2018-04-11 , Iredell County Running , 0.36 , 302 , 134 , 840 
+ running , 2018-04-11 , Iredell County Running , 5 , 3233 , 149 , 647 
+ trail_running , 2018-04-08 , Gastonia crowders mountain (hike) , 11.4 , 9180 , -- , 805 
+ running , 2018-04-07 , Iredell County Running , 1 , 648 , 143 , 646 
+ running , 2018-04-07 , Iredell County Running , 3.11 , 1575 , 171 , 507 
+ running , 2018-04-07 , Iredell County Running , 1 , 646 , 158 , 644 
+ running , 2018-04-05 , Charlotte Running , 7 , 4016 , 156 , 574 
+ running , 2018-04-04 , Charlotte Running , 0.62 , 570 , 141 , 928 
+ running , 2018-04-04 , Charlotte Running , 4 , 2528 , -- , 632 
+ running , 2018-04-03 , Charlotte Running , 0.48 , 382 , 133 , 801 
+ running , 2018-04-03 , Charlotte Running , 5 , 2830 , 156 , 566 
+ running , 2018-04-01 , Iredell County Running , 3.11 , 1577 , 168 , 508 
+ running , 2018-03-31 , Iredell County Running , 9 , 5267 , 157 , 585 
+ running , 2018-03-29 , Huntersville Running , 5 , 2789 , 153 , 558 
+ running , 2018-03-28 , Charlotte Running , 4 , 2463 , 146 , 616 
+ running , 2018-03-28 , Charlotte Running , 3 , 1716 , 152 , 572 
+ running , 2018-03-27 , Charlotte Running , 1.01 , 699 , 143 , 692 
+ running , 2018-03-27 , Charlotte Running , 1.45 , 1025 , 157 , 706 
+ running , 2018-03-27 , Charlotte Running , 2 , 1192 , 144 , 596 
+ running , 2018-03-25 , Iredell County Running , 8.49 , 5142 , 155 , 606 
+ running , 2018-03-23 , Charlotte Running , 4 , 2443 , 157 , 611 
+ running , 2018-03-22 , Charlotte Running , 6.21 , 3343 , 156 , 538 
+ running , 2018-03-21 , Charlotte Running , 4 , 2091 , 164 , 523 
+ running , 2018-03-19 , Charlotte Running , 3.5 , 2113 , 143 , 604 
+ running , 2018-03-18 , Iredell County Running , 8.5 , 5396 , 158 , 635 
+ running , 2018-03-17 , Iredell County Running , 1.01 , 509 , 154 , 506 
+ running , 2018-03-17 , Iredell County Running , 1.95 , 1170 , 149 , 600 
+ running , 2018-03-16 , Charlotte Running , 1.06 , 663 , 127 , 623 
+ running , 2018-03-16 , Charlotte Running , 3.02 , 1746 , 145 , 578 
+ running , 2018-03-15 , Charlotte Running , 1 , 773 , 133 , 773 
+ running , 2018-03-15 , Charlotte Running , 1.36 , 903 , 151 , 664 
+ running , 2018-03-15 , Charlotte Running , 2.02 , 1351 , 146 , 670 
+ running , 2018-03-13 , Charlotte Running , 4 , 2734 , 147 , 683 
+ running , 2018-03-13 , Charlotte Running , 3 , 2020 , 158 , 673 
+ running , 2018-03-11 , Iredell County Running , 8 , 5734 , 151 , 717 
+ running , 2018-03-11 , Iredell County Running , 0.5 , 378 , 154 , 757 
+ running , 2018-03-09 , Charlotte Running , 6 , 3918 , 147 , 653 
+ running , 2018-03-09 , Charlotte Running , 0.51 , 368 , 140 , 719 
+ running , 2018-03-08 , Charlotte Running , 5.01 , 3084 , 146 , 616 
+ running , 2018-03-07 , Iredell County Running , 2 , 1131 , 163 , 565 
+ running , 2018-03-07 , Iredell County Running , 1 , 748 , 150 , 749 
+ running , 2018-03-04 , Iredell County Running , 8 , 6001 , 150 , 750 
+ running , 2018-03-03 , Iredell County Running , 3.1 , 1737 , 164 , 560 
+ running , 2018-03-02 , Cornelius Running , 6 , 4998 , 146 , 833 
+ running , 2018-03-01 , Iredell County Running , 5.5 , 3887 , 149 , 707 
+ running , 2018-02-28 , Iredell County Running , 4 , 2798 , 151 , 700 
+ running , 2018-02-24 , Charlotte Running , 3 , 2125 , 140 , 709 
+ running , 2018-02-23 , Mooresville Running , 5 , 3278 , 148 , 656 
+ running , 2018-02-22 , Davidson Running , 3.1 , 1858 , 166 , 600 
+ running , 2018-02-22 , Davidson Running , 1 , 897 , 146 , 899 
+ running , 2018-02-19 , Mooresville Running , 4 , 2906 , 148 , 727 
+ running , 2018-02-18 , Mooresville Running , 5 , 3496 , 149 , 700 
+ running , 2018-02-16 , Mooresville Running , 3 , 1796 , 159 , 598 
+ running , 2018-02-15 , Mooresville Running , 4 , 2469 , 164 , 617 
+ running , 2018-02-13 , Mooresville Running , 6.25 , 3659 , 153 , 585 
+ running , 2018-02-12 , Mooresville Running , 4 , 2524 , 149 , 631 
+ running , 2018-02-10 , Mooresville Running , 4 , 2605 , 149 , 652 
+ running , 2018-02-09 , Mooresville Running , 6 , 3637 , 158 , 606 
+ running , 2018-02-07 , Mooresville Running , 4 , 2476 , 152 , 619 
+ running , 2018-02-07 , Huntersville Running , 1 , 580 , 153 , 581 
+ running , 2018-02-06 , Mooresville Running , 2.17 , 1555 , 168 , 718 
+ running , 2018-02-04 , Mooresville Running , 1.33 , 1466 , 140 , 1104 
+ running , 2018-02-03 , Mooresville Running , 0.37 , 187 , 166 , 499 
+ running , 2018-02-03 , Mooresville Running , 0.36 , 215 , 162 , 599 
+ running , 2018-02-03 , Mooresville Running , 1.03 , 656 , 157 , 639 
+ running , 2018-02-01 , Charlotte Running , 0.39 , 189 , 158 , 485 
+ running , 2018-02-01 , Mooresville Running , 3 , 2090 , 157 , 698 
+ running , 2018-01-31 , Mooresville Running , 3.75 , 2233 , 172 , 596 
+ running , 2018-01-30 , Charlotte Running , 2 , 1114 , 158 , 558 
+ running , 2018-01-27 , Charlotte Running , 2.04 , 1113 , 153 , 546 
+ running , 2018-01-25 , Mooresville Running , 6 , 3553 , 170 , 592 
+ street_running , 2018-01-23 , mooresville running , 3.5 , 1814 , -- , 518 
+ track_running , 2018-01-22 , davidson Running , 2.5 , 21:34 , -- , 8:38 
+ street_running , 2018-01-21 , moorsville running , 4.5 , 2473 , -- , 550 
+ street_running , 2018-01-19 , mooresville running , 3.5 , 1994 , -- , 570 
+ street_running , 2018-01-18 , mooresville running , 5 , 3236 , -- , 647 
+ street_running , 2018-01-16 , mooreville Running , 3 , 1736 , -- , 579 
+ street_running , 2018-01-15 , mooresville Running , 2.5 , 1358 , -- , 543 
+ street_running , 2018-01-14 , mooresville running , 4.5 , 2561 , -- , 569 
+ street_running , 2018-01-11 , mooresville running , 5 , 2815 , -- , 563 
+ street_running , 2018-01-09 , mooresville running , 3.5 , 1988 , -- , 568 
+ street_running , 2018-01-07 , mooresville running , 3.5 , 2067 , -- , 591 
+ running , 2018-01-05 , Running , 3.5 , 2086 , -- , 596 
+ running , 2018-01-03 , Running , 3 , 1916 , -- , 639 
+ running , 2018-01-01 , Running , 3 , 1837 , -- , 612 
+ running , 2017-12-30 , Running , 3 , 2017 , -- , 672 
+ high_school , 2004-09-20 , Best mile high school , 1 , 365 , -- , 365 

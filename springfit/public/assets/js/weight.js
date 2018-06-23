@@ -47,12 +47,12 @@ d3.json("assets/weight2018.1.json", function (error, data) {
     g.append("g")
         .attr("class", "axis axis--x")
         .attr("transform", "translate(0," + height + ")")
-        .call(d3.axisBottom(x));
+        .call(d3.axisBottom(x).ticks(6));
 
     g.append("g")
         .attr("class", "axis axis--y")
         .call(d3.axisLeft(y).ticks(6).tickFormat(function (d) {
-            return parseInt(d) + "k";
+            return parseInt(d);
         }))
         .append("text")
         .attr("class", "axis-title")
@@ -61,7 +61,7 @@ d3.json("assets/weight2018.1.json", function (error, data) {
         .attr("dy", ".71em")
         .style("text-anchor", "end")
         .attr("fill", "#5D6971")
-        .text("Population)");
+        .text("WEIGHT");
 
     g.append("path")
         .datum(data)
@@ -110,7 +110,9 @@ d3.json("assets/weight2018.1.json", function (error, data) {
             d = x0 - d0.date > d1.date - x0 ? d1 : d0;
         focus.attr("transform", "translate(" + x(d.date) + "," + y(d.weight) + ")");
         focus.select("text").text(function () {
-            return d.weight;
+            let formattedDate = moment(d.date).format("ll");
+            return `WEIGHT: ${d.weight}lbs 
+            DATE: ${formattedDate}`;
         });
         focus.select(".x-hover-line").attr("y2", height - y(d.weight));
         focus.select(".y-hover-line").attr("x2", width + width);
