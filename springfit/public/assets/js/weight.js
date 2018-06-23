@@ -47,7 +47,9 @@ d3.json("assets/weight2018.1.json", function (error, data) {
     g.append("g")
         .attr("class", "axis axis--x")
         .attr("transform", "translate(0," + height + ")")
-        .call(d3.axisBottom(x).ticks(6));
+        .call(d3.axisBottom(x).ticks(4).tickFormat(function(d) {
+            return moment(d).format("MMM YYYY");
+        }));
 
     g.append("g")
         .attr("class", "axis axis--y")
